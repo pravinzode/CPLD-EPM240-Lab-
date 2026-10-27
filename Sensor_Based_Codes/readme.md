@@ -77,17 +77,5 @@ The code assumes that the sensor output is active-LOW when an obstacle is detect
 - **No detection:** Check VCC, GND, EN, sensor alignment, and the module's sensitivity adjustment if available.
 - **Unexpected behavior:** Verify the pin assignments and ensure the sensor output voltage is compatible with the CPLD input.
 
-## Learning Outcomes
-
-- Read a digital sensor output in a CPLD design.
-- Use Verilog `assign` statements.
-- Understand combinational logic and signal inversion.
-- Interface an external sensor with a programmable logic device.
-
----
-
-**Project type:** Beginner  
-**HDL:** Verilog  
-**Target device:** EPM240T100C5N MAX II CPLD  
 **Sensor:** KY-032 IR obstacle avoidance module
 
