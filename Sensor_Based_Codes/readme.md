@@ -1,3 +1,15 @@
+
+| Topic | Description | Documentation Link |
+| :--- | :--- | :--- |
+| Setup | How to install the project | [Read Installation Guide](docs/installation.md) |
+| Features | How to use the software | [Read Usage Guide](docs/usage.md) |
+| Updates | Latest changes and fixes | [View Patch Notes](patch-notes.md) |
+
+
+
+
+
+
 # KY-032 Obstacle Detector Using Verilog HDL
 
 A simple beginner-level project using the **KY-032 infrared obstacle sensor** and an **EPM240T100C5N MAX II CPLD**.
