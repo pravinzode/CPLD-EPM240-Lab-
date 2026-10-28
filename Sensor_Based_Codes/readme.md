@@ -1,9 +1,10 @@
+# Sensor Based Projects 
 
-| Topic | Description | Documentation Link |
+| SN | Description | Documentation Link |
 | :--- | :--- | :--- |
-| Setup | How to install the project | [Read Installation Guide](docs/installation.md) |
-| Features | How to use the software | [Read Usage Guide](docs/usage.md) |
-| Updates | Latest changes and fixes | [View Patch Notes](patch-notes.md) |
+| 1 | How to install the project | [Read Installation Guide](docs/installation.md) |
+| 2 | How to use the software | [Read Usage Guide](docs/usage.md) |
+| 3 | Latest changes and fixes | [View Patch Notes](patch-notes.md) |
 
 
 
